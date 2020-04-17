@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+
+.testDiv{
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding: 10vw 0;
+}
+.leftDiv{
+  position: absolute;
+  left: 13vw;
+  bottom: 40%;
+  overflow: hidden;
+  height: 0;
+}
+.leftDiv img{
+  width: 110%;
+  transition: all 0.4s;
+  margin-left: -5%;
+}
+.rightDiv{
+  width: 50%;
+  background-color: #151515;
+  /* height: 44vw; */
+  height: 0;
+  /* padding: 100px; */
+  box-sizing: border-box;
+  float: right;
+  
+  display: table;
+  overflow: hidden;
+}
+
+.rightDiv p{
+  color: #FFF;
+  display: table-cell;
+  height: 100%;
+  vertical-align: middle;
+  line-height: 1.7;
+  opacity: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

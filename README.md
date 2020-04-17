@@ -89,7 +89,4 @@ jQuery 1.4版本中對animate()方法，easing的方法進行了擴充套件，�
    });
 ```
 
-
-* * *
-
-
+*  [測試網址](http://www.milky-sky.com/brangista/plugins/offsetValue_wowtest01/index.html)  
